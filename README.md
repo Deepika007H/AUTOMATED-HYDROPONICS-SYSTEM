@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 \# Automated Hydroponics System (ESP8266)
 
 
@@ -59,3 +60,6 @@ backend/
 # AUTOMATED-HYDROPONICS-SYSTEM-
 An IoT-based Automated Hydroponics System using ESP32 to monitor pH, TDS, temperature, humidity, water level, and light intensity. Automatically controls pumps and grow lights based on real-time sensor values. Data is logged to Google Sheets and viewed through a live dashboard.
 >>>>>>> c976bacb3c7ab396aae0f85eb7eaf15965142405
+=======
+# AUTOMATED-HYDROPONICS-SYSTEM
+>>>>>>> c9d0b5187a364177768c345ab3b19bdbe1f49058
