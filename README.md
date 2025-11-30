@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 \# Automated Hydroponics System (ESP8266)
 
 
